@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I am passionate about Data Analytics, Business Intelligence, Cloud Computing, and Problem Solving.  
-I enjoy working with data to generate insights and build dashboards that support business decisions.
+Final-year BBA (Computer Application) student with hands-on experience in data analysis, Power BI dashboards, SQL, and 
+Python. Published researcher with AWS and Data Analytics certifications and practical internship experience in analytics and 
+cloud technologies. Seeking a Data Analyst / Business Analyst role to leverage analytical and problem-solving skills for data
+driven decision-making.
 
 ---
 
@@ -42,6 +44,16 @@ I enjoy working with data to generate insights and build dashboards that support
 ---
 
 ## 📂 Featured Projects
+
+### 🌍 Smart Environmental Comfort Monitoring System
+🔹 Technologies: NodeMCU, IoT Sensors, Embedded Systems  
+🔹 IoT-based environmental monitoring system for temperature & humidity tracking  
+🔹 Focused on smart automation and real-time monitoring
+
+### 🏋️ ERA Fitness Club – Gym Management System
+🔹 Technologies: PHP, MySQL, HTML5, CSS, JavaScript, XAMPP  
+🔹 Developed responsive Gym Management System with authentication and membership handling  
+🔹 Included trainer management, package registration, and feedback system
 
 ### 📊 Bank Loan Analysis Dashboard
 - Built interactive Power BI dashboard
