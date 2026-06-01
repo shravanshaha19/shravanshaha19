@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Shravan Shaha 👋
 
-🎓 Final-Year BBA (Computer Application) Student  
+🎓 BBA (Computer Application) Graduate  
 📊 Aspiring Data Analyst / Business Analyst  
 ☁️ AWS Cloud & Data Analytics Enthusiast  
 📍 Maharashtra, India
@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Final-year BBA (Computer Application) student with hands-on experience in data analysis, Power BI dashboards, SQL, and 
-Python. Published researcher with AWS and Data Analytics certifications and practical internship experience in analytics and 
-cloud technologies. Seeking a Data Analyst / Business Analyst role to leverage analytical and problem-solving skills for data
-driven decision-making.
+BBA (Computer Application) graduate with hands-on experience in Data Analytics, Power BI dashboard development, SQL, and Python. Published research author with AWS and Data Analytics certifications, complemented by practical internship experience in data analytics and cloud computing. Skilled in data visualization, data analysis, and problem-solving, with a strong ability to transform data into actionable business insights. Seeking a Data Analyst or Business Analyst role to contribute to data-driven decision-making and organizational growth.
 
 ---
 
