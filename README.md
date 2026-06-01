@@ -64,10 +64,15 @@ BBA (Computer Application) graduate with hands-on experience in Data Analytics, 
 
 ---
 
-## 📜 Research Publication
+## 📄 Research Publication
 
-📄 Emerging Trends in Cloud Computing and Cyber Security.  
-Published in Journal of Research and Development (2026)
+### [Emerging Trends in Cloud Computing and Cyber Security](https://zenodo.org/records/19510647)
+
+Published in *Journal of Research and Development (JRD), Feb 2026*
+
+* Research Area: Cloud Computing & Cyber Security
+* Topics Covered: Multi-Cloud, Zero Trust Security, AI-Based Threat Detection
+* Publication Repository: Zenodo
 
 ---
 
