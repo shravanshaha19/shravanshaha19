@@ -85,5 +85,5 @@ Published in *Journal of Research and Development (JRD), Feb 2026*
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/shravan-shaha-6636452b9
+- LinkedIn: https://www.linkedin.com/in/shravan-shaha-6636452b9/
 - Email: shravanshaha19@gmail.com
